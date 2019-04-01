@@ -40,6 +40,8 @@
                         <distribution>repo</distribution>
                 </license>
         </licenses> 
+    <properties>
+
    <orienteer.version>1.4</orienteer.version>
                 <wicket.orientdb.version>1.4</wicket.orientdb.version>
                 <jetty.version>9.4.12.v20180830</jetty.version>
