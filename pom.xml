@@ -56,7 +56,8 @@
                         <version>${orienteer.version}</version>
                 </dependency>
 
-        <properties>  <dependency>
+        <properties>  
+           <dependency>
                         <groupId>org.orienteer</groupId>
                         <artifactId>orienteer-core</artifactId>
                         <version>${orienteer.version}</version>
